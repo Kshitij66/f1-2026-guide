@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kshitij66.github.io/f1-2026-guide/sitemap.xml

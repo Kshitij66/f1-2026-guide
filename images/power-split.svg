@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 260" role="img"><title>F1 power split 2025 vs 2026</title>
+<rect width="640" height="260" fill="#f4f4f6" rx="8"/>
+<text x="24" y="36" font-family="sans-serif" font-size="16" font-weight="700" fill="#15151e">Share of peak power</text>
+<text x="24" y="98" font-family="sans-serif" font-size="15" fill="#15151e">2025</text>
+<rect x="90" y="76" width="410" height="34" fill="#15151e"/><rect x="500" y="76" width="96" height="34" fill="#d7261e"/>
+<text x="102" y="99" font-family="sans-serif" font-size="14" fill="#fff">Combustion engine ~80%</text>
+<text x="508" y="99" font-family="sans-serif" font-size="13" fill="#fff">Electric ~20%</text>
+<text x="24" y="166" font-family="sans-serif" font-size="15" fill="#15151e">2026</text>
+<rect x="90" y="144" width="253" height="34" fill="#15151e"/><rect x="343" y="144" width="253" height="34" fill="#d7261e"/>
+<text x="102" y="167" font-family="sans-serif" font-size="14" fill="#fff">Combustion engine ~50%</text>
+<text x="355" y="167" font-family="sans-serif" font-size="14" fill="#fff">Electric (350 kW MGU-K) ~50%</text>
+<text x="24" y="226" font-family="sans-serif" font-size="13" fill="#5b5b66">Approximate figures. 2026 engines also run on 100% sustainable fuel.</text>
+</svg>
